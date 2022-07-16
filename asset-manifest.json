@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.255c01a3.css",
+    "main.js": "/static/js/main.71fa6759.js",
+    "static/media/tina-dawson-Kim9COAIEGc-unsplash.jpg": "/static/media/tina-dawson-Kim9COAIEGc-unsplash.5922e7ed1d3da93bbae6.jpg",
+    "static/media/thomas-lefebvre-mT1uxKaegSQ-unsplash.jpg": "/static/media/thomas-lefebvre-mT1uxKaegSQ-unsplash.bde9b5fc5ab03a369e84.jpg",
+    "static/media/support.png": "/static/media/support.742caae5101d98ae2c49.png",
+    "static/media/telephone.png": "/static/media/telephone.55f60239547593a1b5d5.png",
+    "static/media/remote-control.png": "/static/media/remote-control.a935e2be0f11a26a9f7e.png",
+    "static/media/plug.png": "/static/media/plug.fe0b68b5246f871ccc35.png",
+    "static/media/key.png": "/static/media/key.9082bdd67b064c1a570b.png",
+    "static/media/unlock.png": "/static/media/unlock.1e9bd78a3f1b820ac6cd.png",
+    "static/media/time-zone.png": "/static/media/time-zone.330d35b3f2139b65286b.png",
+    "static/media/sms.png": "/static/media/sms.eb8a852bf7962d08942d.png",
+    "static/media/megaphone.png": "/static/media/megaphone.b85bcf90c0f241d1ad4b.png",
+    "static/media/bin.png": "/static/media/bin.a6fd29509719f079bfd7.png",
+    "static/media/no-call.png": "/static/media/no-call.52e089c855621b0e4876.png",
+    "static/media/speech-bubble.png": "/static/media/speech-bubble.0818ce581bc0f883efdc.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/add-user.png": "/static/media/add-user.a3f9f4bc09c16e79a6b8.png",
+    "static/media/contact-book.png": "/static/media/contact-book.3ab7bcce1d7942a5ee3e.png",
+    "static/media/sim-card.png": "/static/media/sim-card.270cc8530634c8b6f0df.png",
+    "static/media/alert.png": "/static/media/alert.827e8970facbea46cdb0.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.255c01a3.css.map": "/static/css/main.255c01a3.css.map",
+    "main.71fa6759.js.map": "/static/js/main.71fa6759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255c01a3.css",
+    "static/js/main.71fa6759.js"
+  ]
+}
